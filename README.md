@@ -16,7 +16,7 @@
     * Is the **blank** object mutable or immutable? How can you tell?
 
 ```text
-PUT ANSWER TO #2 HERE
+It is mutable
 ```
 
 ```java
@@ -47,7 +47,7 @@ public class Puzzler {
     * Explain how the return values from #3 and #4 differ.
 
 ```text
-PUT ANSWER TO #5 HERE
+Method 3 returns a numeric value while method 4 returns a point which represents the center of a rectangle.
 ```
 
 ```java
@@ -87,14 +87,16 @@ Recall that aliases are two variables that refer to the same object.
     * Put the output in the text block below
 
 ```text
-PUT ANSWER TO #2 HERE
+The output of the program would be 
+(5'8)
+(5'7)
 ```
 
 3. At the end of main, are p1 and p2 aliased? Why or why not?
     * Put your answer in the text block below
 
 ```text
-PUT ANSWER TO #3 HERE
+P 1 and P2 are not aliased, they represent different points in time and p1 and p2 are different points.
 ```
 
 ```java
